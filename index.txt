@@ -122,7 +122,7 @@ I am so grateful to have you by my side, sharing every joy, every dream, and eve
 <p>May this birthday be as magical and wonderful as you are, my love. I can’t wait to create more beautiful memories with you, today and forever. 💕</p></b>
 
 Happy Birthday, My Sweetheart! 🎉😘✨ 🎉💕</p>
-                <img src="gublu1.jpg" alt="Our Love" width="500">
+                <img src="gublu1.jpg" alt="Our Love" width="200">
 				<br>
                 <p><button onclick="window.close()" style="padding:10px 20px;background:#ff00ff;border:round;font-size:14px;">Close</button></p>
                 </body></html>
